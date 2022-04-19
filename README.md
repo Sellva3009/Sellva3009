@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sellva3009
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web technologies
-- 💞️ I’m looking to collaborate on Developers
+- 💞️ I’m looking to collaborate with Developers
 - 📫 How to reach me - sellva3009@gmail.com
 
 <!---
